@@ -1,6 +1,7 @@
-##### Hello, I am Mina Kim
-<small>
+##### Hello
 
+<small>
+I am Mina Kim, a computer science student at 42 Berlin with a background in Fine Art.<br><br>
 Somewhere between 0s and 1s lies another kind of sublime.<br>I am always drawn to the same idea:<br>something quietly transcendent,<br>a presence that seems to arise the moment we name it.<br><br>
 
 Maybe that’s why, to me, art and code feel so alike—<br>_except one crashes a little more often._
