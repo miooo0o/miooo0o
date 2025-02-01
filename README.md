@@ -1,7 +1,7 @@
 ##### Hello, I am Mina Kim
 <small>
 
-Somewhere between 0s and 1s lies another kind of sublime.<br> I am always in love with the same thing:<br>something quietly transcendent,<br>a presence that seems to arise the moment we name it.<br>
+Somewhere between 0s and 1s lies another kind of sublime.<br> I am always in love with the same thing:<br>some quietly transcendent,<br>a presence that seems to arise the moment we name it.<br>
 
 Maybe that’s why, to me, art and code feel like the same thing—<br>except one crashes a little more often.
 
