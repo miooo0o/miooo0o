@@ -1,8 +1,13 @@
 ##### Hello, I am Mina Kim
 <small>
-I began my journey as an artist, exploring ways to connect more deeply with my audience. Surprisingly, that pursuit led me to programming, where I now find both creativity and precision in writing structured, efficient, and readable code.
-  
-Somewhere between 0s and 1s lies another kind of sublime—just as I once searched for meaning through art, I now discover beauty in logic, structure, and problem-solving. I’m eager to keep growing as a developer, combining creativity and precision in everything I do.
+
+Somewhere between 0s and 1s lies another kind of sublime.
+I am always in love with the same thing—something quietly transcendent,
+a presence that seems to arise the moment we name it.
+
+Maybe that’s why, to me, art and code feel like the same thing—
+except one crashes a little more often
+
 </small>
 
 <div align="center">
