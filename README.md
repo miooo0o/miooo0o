@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/miooo0o/miooo0o/blob/main/images/uto.gif?raw=true" width="800"/>
+  <img src="https://github.com/miooo0o/miooo0o/blob/main/images/uto.gif?raw=true" width="740"/>
 </p>
 
 <p align="center"><sub>Somewhere between 0s and 1s lies another kind of sublime.</sub></p>
