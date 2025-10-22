@@ -12,11 +12,6 @@
 <br><be>
 <small>
 I am **Mina Kim**.<be><br>
-A computer science student at 42 Berlin with a background in Fine Art.<be>
-
-I am always drawn to the same idea:<br>
-_something quietly transcendent, a presence that seems to arise the moment we name it._<br>
-_Art and code feel so alike_—<br>
-_except one crashes a little more often._
+_will update soon_
 </small>
 </div>
